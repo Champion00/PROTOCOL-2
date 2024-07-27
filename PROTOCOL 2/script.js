@@ -120,6 +120,3 @@ h4.forEach(function(elem){
         purple.style.opacity = "0"
     })
 })
-document.activeElementListener("contextmenu",function(e){
-    e.preventDefault()
-},false)
